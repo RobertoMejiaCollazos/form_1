@@ -1,5 +1,5 @@
 <?php
-    $destinatario = 'appyouversion@gmail.com';
+    $destinatario = 'dominio@gmail.com';
     //aqui se enviará el correo
     $nombre = $_POST['nombre'];
     $asunto = $_POST['asunto'];
